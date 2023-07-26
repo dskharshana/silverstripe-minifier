@@ -27,5 +27,7 @@
 			"composer/installers": true,
 			"silverstripe/vendor-plugin": true
 		}
-	}
+	},
+    "prefer-stable": true,
+    "minimum-stability": "dev"
 }
