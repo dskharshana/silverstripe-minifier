@@ -3,9 +3,8 @@
 namespace Axllent\Minifier;
 
 use MatthiasMullie\Minify;
-use SilverStripe\View\Requirements_Minifier;
 
-class Minifier implements Requirements_Minifier
+class Minifier
 {
     /**
      * Minify the given content
